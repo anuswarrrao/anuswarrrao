@@ -13,8 +13,8 @@ Welcome to my little corner of the coding universe! I'm a passionate in web deve
 <!-- Social and visit count badges -->
 [![](https://visitcount.itsvg.in/api?id=Anuswar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://www.github.com/Anuswar" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/Anuswar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+<a href="https://www.github.com/anuswarrrao" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/anuswarrrao?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
 <a href="https://www.x.com/anuswarrrao" target="_blank" rel="noreferrer">
